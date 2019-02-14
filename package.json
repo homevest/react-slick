@@ -1,7 +1,7 @@
 {
-  "name": "react-slick",
+  "name": "react-slick-PR1423",
   "version": "0.23.2",
-  "description": " React port of slick carousel",
+  "description": " React port of slick carousel to merge PR https://github.com/akiran/react-slick/pull/1423/commits/0e348f665c22a13b5d285f283fb3b2369e8fc128",
   "main": "./lib",
   "files": [
     "dist",
